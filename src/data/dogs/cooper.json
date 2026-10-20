@@ -1,0 +1,23 @@
+{
+  "id": "cooper",
+  "name": "Cooper",
+  "ageDogYears": 4,
+  "breed": "pitbull",
+  "sizeLabel": "Medium",
+  "heightPaws": 5,
+  "location": "Neighbourhood dog park",
+  "photos": ["/assets/dogs/mixed-1.svg", "/assets/dogs/mixed-2.svg", "/assets/dogs/mixed-3.svg"],
+  "prompts": [
+    { "promptId": "green-flag", "answer": "You are kind, patient, and never judge a book by its cover." },
+    { "promptId": "perfect-day", "answer": "A good walk, a good friend, and somewhere comfy to land." },
+    { "promptId": "dating-me", "answer": "A soft-hearted best friend with a big welcome home." }
+  ],
+  "useAuthoredPrompts": true,
+  "traits": { "energy": 6, "sociability": 7, "pickiness": 3, "playfulness": 7 },
+  "likes": ["cuddles", "treats", "park", "fetch"],
+  "dislikes": ["vacuum", "baths"],
+  "lookingFor": "playdates",
+  "voice": "chill",
+  "behavior": { "likesYouFirst": true, "sendsBone": true, "replySpeed": "normal" },
+  "verified": false
+}

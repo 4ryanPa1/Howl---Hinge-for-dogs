@@ -1,0 +1,5 @@
+{
+  "enthusiastic": ["I ALSO love {item}!!! can we go right now", "Your {item} energy is incredible."],
+  "chill": ["Your {item} caught my eye. In a calm, normal way.", "I like your style. Especially the {item} part."],
+  "grumpy": ["Your {item} seems acceptable. High praise, really.", "I noticed the {item}. I notice most things."]
+}

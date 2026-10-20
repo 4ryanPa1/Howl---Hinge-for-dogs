@@ -1,0 +1,23 @@
+{
+  "id": "max",
+  "name": "Max",
+  "ageDogYears": 4,
+  "breed": "husky",
+  "sizeLabel": "Large",
+  "heightPaws": 6,
+  "location": "Neighbourhood dog park",
+  "photos": ["/assets/dogs/shiba-1.svg", "/assets/dogs/shiba-2.svg", "/assets/dogs/shiba-3.svg"],
+  "prompts": [
+    { "promptId": "together-we-could", "answer": "Take the long way home and make a whole day of it." },
+    { "promptId": "win-me-over", "answer": "Keep up on a walk and bring excellent snack breaks." },
+    { "promptId": "green-flag", "answer": "You make room for big adventures and bigger naps." }
+  ],
+  "useAuthoredPrompts": true,
+  "traits": { "energy": 9, "sociability": 7, "pickiness": 4, "playfulness": 8 },
+  "likes": ["long-walks", "fetch", "car-rides", "park"],
+  "dislikes": ["baths", "vacuum"],
+  "lookingFor": "long-walks",
+  "voice": "enthusiastic",
+  "behavior": { "likesYouFirst": true, "sendsBone": false, "replySpeed": "fast" },
+  "verified": false
+}

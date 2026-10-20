@@ -1,0 +1,12 @@
+{
+  "ball": ["ball", "fetch", "tennis"],
+  "walk": ["walk", "walkies", "stroll", "outside"],
+  "treat": ["treat", "snack", "bone", "food", "dinner"],
+  "park": ["park", "beach", "date", "meet"],
+  "cat": ["cat", "kitten"],
+  "name": ["name", "called"],
+  "vet": ["vet", "doctor"],
+  "bath": ["bath", "wash", "shower"],
+  "love": ["love", "cute", "sweet"],
+  "nap": ["nap", "sleep", "bed"]
+}

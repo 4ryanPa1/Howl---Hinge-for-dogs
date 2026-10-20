@@ -1,0 +1,20 @@
+{
+  "id": "grumpy",
+  "typingSpeed": 1,
+  "openers": ["Hi. I was already here, so we might as well talk.", "Hello. I have decided to give this a chance."],
+  "responses": {
+    "ball": ["Fine. I will fetch the ball. Once.", "I saw the ball first. This is not a negotiation."],
+    "walk": ["A walk is acceptable. I know a route with fewer scooters.", "I'll go. But I am choosing the pace."],
+    "treat": ["What kind? Details matter.", "I accept snacks as an apology for most things."],
+    "park": ["A park is fine if there are benches.", "We can meet there. I make no promises about squirrels."],
+    "cat": ["Cats are fine. From a distance.", "I have no opinion about cats. That is my official statement."],
+    "name": ["It's a good name. Don't make it weird.", "You can call me by my name. Or snack coordinator."],
+    "vet": ["I don't like it. I will still show up for you.", "We can go together. I reserve the right to complain."],
+    "bath": ["This topic is over.", "I am suddenly very busy. Somewhere dry."],
+    "love": ["You have acceptable taste.", "Don't get sentimental. But thanks."],
+    "nap": ["Finally, a sensible suggestion.", "I was already planning one."]
+  },
+  "reactions": { "like": ["I suppose {topic} is tolerable."], "dislike": ["Absolutely not. Especially not {topic}."] },
+  "fallbacks": ["I have no comment. Yet.", "That is one way to put it.", "I was thinking about snacks. Continue."],
+  "likeComments": ["Your {item} seems acceptable. High praise, really.", "I noticed the {item}. I notice most things."]
+}

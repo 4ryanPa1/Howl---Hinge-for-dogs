@@ -1,0 +1,5 @@
+[
+  { "id": "park", "name": "Cubbon Park", "emoji": "🌳" },
+  { "id": "beach", "name": "The beach", "emoji": "🌊" },
+  { "id": "vet", "name": "The vet waiting room", "emoji": "🩺" }
+]

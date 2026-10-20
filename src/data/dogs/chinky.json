@@ -1,0 +1,23 @@
+{
+  "id": "chinky",
+  "name": "Chinky",
+  "ageDogYears": 4,
+  "breed": "mixed-breed",
+  "sizeLabel": "Medium",
+  "heightPaws": 5,
+  "location": "Neighbourhood dog park",
+  "photos": ["/assets/dogs/mixed-1.svg", "/assets/dogs/mixed-2.svg", "/assets/dogs/mixed-3.svg"],
+  "prompts": [
+    { "promptId": "perfect-day", "answer": "Find a sunny patch, stretch out, and watch the world go by." },
+    { "promptId": "win-me-over", "answer": "A kind voice, a little patience, and maybe a treat." },
+    { "promptId": "green-flag", "answer": "You enjoy the quiet moments as much as the walks." }
+  ],
+  "useAuthoredPrompts": true,
+  "traits": { "energy": 5, "sociability": 6, "pickiness": 4, "playfulness": 5 },
+  "likes": ["sunbathing", "long-walks", "treats", "park"],
+  "dislikes": ["vacuum"],
+  "lookingFor": "long-walks",
+  "voice": "chill",
+  "behavior": { "likesYouFirst": true, "sendsBone": false, "replySpeed": "normal" },
+  "verified": false
+}

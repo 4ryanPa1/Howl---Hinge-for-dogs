@@ -1,0 +1,16 @@
+[
+  { "id": "fetch", "label": "Fetch", "emoji": "🎾" },
+  { "id": "tennis-ball", "label": "Tennis balls", "emoji": "🎾" },
+  { "id": "swimming", "label": "Swimming", "emoji": "🌊" },
+  { "id": "long-walks", "label": "Long walks", "emoji": "🚶" },
+  { "id": "naps", "label": "Naps", "emoji": "💤" },
+  { "id": "treats", "label": "Treats", "emoji": "🦴" },
+  { "id": "sunbathing", "label": "Sunbathing", "emoji": "☀️" },
+  { "id": "park", "label": "The dog park", "emoji": "🌳" },
+  { "id": "cats", "label": "Cats", "emoji": "🐈" },
+  { "id": "vacuum", "label": "The vacuum", "emoji": "🧹" },
+  { "id": "baths", "label": "Baths", "emoji": "🛁" },
+  { "id": "squirrels", "label": "Squirrels", "emoji": "🐿️" },
+  { "id": "car-rides", "label": "Car rides", "emoji": "🚗" },
+  { "id": "cuddles", "label": "Cuddles", "emoji": "🫶" }
+]

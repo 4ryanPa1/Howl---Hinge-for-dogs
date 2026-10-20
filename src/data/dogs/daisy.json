@@ -1,0 +1,23 @@
+{
+  "id": "daisy",
+  "name": "Daisy",
+  "ageDogYears": 3,
+  "breed": "pomeranian",
+  "sizeLabel": "Small",
+  "heightPaws": 3,
+  "location": "Neighbourhood dog park",
+  "photos": ["/assets/dogs/corgi-1.svg", "/assets/dogs/corgi-2.svg", "/assets/dogs/corgi-3.svg"],
+  "prompts": [
+    { "promptId": "dating-me", "answer": "Tiny package, premium cuddle service." },
+    { "promptId": "perfect-day", "answer": "A little stroll, a lot of admiration, then a cosy nap." },
+    { "promptId": "green-flag", "answer": "You remember that small paws can have big plans." }
+  ],
+  "useAuthoredPrompts": true,
+  "traits": { "energy": 6, "sociability": 7, "pickiness": 5, "playfulness": 8 },
+  "likes": ["cuddles", "sunbathing", "treats", "park"],
+  "dislikes": ["baths", "vacuum"],
+  "lookingFor": "playdates",
+  "voice": "enthusiastic",
+  "behavior": { "likesYouFirst": true, "sendsBone": false, "replySpeed": "normal" },
+  "verified": false
+}

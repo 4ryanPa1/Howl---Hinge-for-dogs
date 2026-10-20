@@ -1,0 +1,23 @@
+{
+  "id": "romeo",
+  "name": "Romeo",
+  "ageDogYears": 3,
+  "breed": "mixed-breed",
+  "sizeLabel": "Medium",
+  "heightPaws": 5,
+  "location": "Neighbourhood dog park",
+  "photos": ["/assets/dogs/mixed-1.svg", "/assets/dogs/mixed-2.svg", "/assets/dogs/mixed-3.svg"],
+  "prompts": [
+    { "promptId": "dating-me", "answer": "A meet-cute with a very strong chance of sharing the sunny spot." },
+    { "promptId": "together-we-could", "answer": "Take the scenic route and become local legends." },
+    { "promptId": "green-flag", "answer": "You make time for one more little adventure." }
+  ],
+  "useAuthoredPrompts": true,
+  "traits": { "energy": 7, "sociability": 8, "pickiness": 4, "playfulness": 8 },
+  "likes": ["park", "car-rides", "treats", "fetch"],
+  "dislikes": ["baths", "vacuum"],
+  "lookingFor": "playdates",
+  "voice": "enthusiastic",
+  "behavior": { "likesYouFirst": true, "sendsBone": false, "replySpeed": "fast" },
+  "verified": false
+}

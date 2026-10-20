@@ -1,0 +1,23 @@
+{
+  "id": "guspy",
+  "name": "Guspy",
+  "ageDogYears": 5,
+  "breed": "australian-shepherd",
+  "sizeLabel": "Medium",
+  "heightPaws": 5,
+  "location": "Cape Town",
+  "photos": ["/assets/dogs/collie-1.svg", "/assets/dogs/collie-2.svg", "/assets/dogs/collie-3.svg"],
+  "prompts": [
+    { "promptId": "perfect-day", "answer": "A cosy nap, a favourite person, and a little time outside." },
+    { "promptId": "green-flag", "answer": "You know that quiet company is quality company." },
+    { "promptId": "win-me-over", "answer": "A soft spot on the sofa and a gentle hello." }
+  ],
+  "useAuthoredPrompts": true,
+  "traits": { "energy": 5, "sociability": 5, "pickiness": 4, "playfulness": 5 },
+  "likes": ["naps", "cuddles", "sunbathing", "long-walks"],
+  "dislikes": ["vacuum", "baths"],
+  "lookingFor": "long-walks",
+  "voice": "chill",
+  "behavior": { "likesYouFirst": true, "sendsBone": false, "replySpeed": "slow" },
+  "verified": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "lil-jacob",
+  "name": "Lil Jacob",
+  "ageDogYears": 3,
+  "breed": "mixed-breed",
+  "sizeLabel": "Medium",
+  "heightPaws": 5,
+  "location": "Neighbourhood dog park",
+  "photos": ["/assets/dogs/mixed-1.svg", "/assets/dogs/mixed-2.svg", "/assets/dogs/mixed-3.svg"],
+  "prompts": [
+    { "promptId": "dating-me", "answer": "Low-key at first, main-character energy by the second walk." },
+    { "promptId": "together-we-could", "answer": "Find the comfiest spot and make it our regular." },
+    { "promptId": "green-flag", "answer": "You bring good energy and never skip the hello." }
+  ],
+  "useAuthoredPrompts": true,
+  "traits": { "energy": 6, "sociability": 5, "pickiness": 5, "playfulness": 7 },
+  "likes": ["naps", "cuddles", "long-walks", "fetch"],
+  "dislikes": ["baths", "vacuum"],
+  "lookingFor": "playdates",
+  "voice": "chill",
+  "behavior": { "likesYouFirst": false, "sendsBone": false, "replySpeed": "normal" },
+  "verified": false
+}

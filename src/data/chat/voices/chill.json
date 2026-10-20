@@ -1,0 +1,20 @@
+{
+  "id": "chill",
+  "typingSpeed": 0.85,
+  "openers": ["Hey. This seems nice so far.", "Hi there. No rush, just saying hello."],
+  "responses": {
+    "ball": ["I could be persuaded to chase a ball.", "A gentle game of fetch sounds pretty good."],
+    "walk": ["A slow walk and no particular destination. Perfect.", "I'm always up for a sniffari."],
+    "treat": ["I respect a good snack.", "Snacks make most things better."],
+    "park": ["Let's find a quiet patch of grass.", "Park sounds good. We can see how we feel."],
+    "cat": ["Cats and I have an unspoken agreement.", "I give cats their space. Mostly."],
+    "name": ["I like your name. It suits your vibe.", "Mine's easy to remember. Snacks help."],
+    "vet": ["Deep breaths. We can do hard things.", "I volunteer as emotional support. And moral support."],
+    "bath": ["I don't love baths, but I do love a clean towel.", "We can negotiate bath day."],
+    "love": ["That's kind of you to say.", "You're making this whole app feel less app-y."],
+    "nap": ["Now you're speaking my language.", "A little nap never hurt anybody."]
+  },
+  "reactions": { "like": ["Oh, {topic} is pretty great."], "dislike": ["Not my favourite, {topic}. Maybe from over there."] },
+  "fallbacks": ["I'm listening. Just taking a moment to think.", "That's a good question. What's your take?"],
+  "likeComments": ["Your {item} caught my eye. In a calm, normal way.", "I like your style. Especially the {item} part."]
+}

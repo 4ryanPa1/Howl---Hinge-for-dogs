@@ -1,0 +1,23 @@
+{
+  "id": "bella",
+  "name": "Bella",
+  "ageDogYears": 4,
+  "breed": "beagle",
+  "sizeLabel": "Medium",
+  "heightPaws": 5,
+  "location": "Neighbourhood dog park",
+  "photos": ["/assets/dogs/beagle-1.svg", "/assets/dogs/beagle-2.svg", "/assets/dogs/beagle-3.svg"],
+  "prompts": [
+    { "promptId": "perfect-day", "answer": "Follow an interesting smell, then find a shady spot for snacks." },
+    { "promptId": "together-we-could", "answer": "Explore every path and let the nose choose the route." },
+    { "promptId": "green-flag", "answer": "You never rush the best sniff of the day." }
+  ],
+  "useAuthoredPrompts": true,
+  "traits": { "energy": 7, "sociability": 8, "pickiness": 3, "playfulness": 7 },
+  "likes": ["long-walks", "treats", "squirrels", "park"],
+  "dislikes": ["vacuum"],
+  "lookingFor": "long-walks",
+  "voice": "enthusiastic",
+  "behavior": { "likesYouFirst": true, "sendsBone": false, "replySpeed": "fast" },
+  "verified": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "enthusiastic",
+  "typingSpeed": 1.2,
+  "openers": ["HI HI HI! I was just hoping you'd bark first.", "Hello!! I have so many questions and excellent energy."],
+  "responses": {
+    "ball": ["BALL?? Where?? Is there a ball??", "I would absolutely chase that with you!!"],
+    "walk": ["Did you say WALK?! I'm already by the door!", "Walkies with you sounds like my favourite plan."],
+    "treat": ["I love snacks almost as much as I love meeting you.", "Did somebody say treat? I am listening."],
+    "park": ["A park date?! I'll bring my best zoomies.", "Let's meet where the good sticks are!"],
+    "cat": ["Cats are mysterious little roommates.", "I will be very polite to your cat. Probably."],
+    "name": ["I'm glad you asked! I was trying to find a way to ask yours.", "Names are great. Yours is my new favourite."],
+    "vet": ["I prefer the waiting room snacks to the actual appointment.", "I'll hold your paw. We can be brave together."],
+    "bath": ["I support you from a safe, dry distance.", "Can we talk about literally anything else?"],
+    "love": ["Aww, you're making my tail do the helicopter!", "That is so sweet I might need a little lie down."],
+    "nap": ["A nap date sounds like a 10/10 plan.", "I can nap professionally. It's one of my talents."]
+  },
+  "reactions": { "like": ["Oh I LOVE {topic}!!"], "dislike": ["Ugh, {topic}. Can we bring a towel and a snack?"] },
+  "fallbacks": ["Sorry, I got distracted by a squirrel.", "Tell me more! I am doing my very best listening face."],
+  "likeComments": ["I ALSO love {item}!!! can we go right now", "Your {item} energy is incredible."]
+}

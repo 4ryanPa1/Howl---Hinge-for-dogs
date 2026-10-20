@@ -1,0 +1,23 @@
+{
+  "id": "chud",
+  "name": "Chud",
+  "ageDogYears": 5,
+  "breed": "mixed-breed",
+  "sizeLabel": "Medium",
+  "heightPaws": 5,
+  "location": "Neighbourhood dog park",
+  "photos": ["/assets/dogs/mixed-1.svg", "/assets/dogs/mixed-2.svg", "/assets/dogs/mixed-3.svg"],
+  "prompts": [
+    { "promptId": "perfect-day", "answer": "A little fresh air, a favourite human, then a well-earned lounge." },
+    { "promptId": "win-me-over", "answer": "A gentle hello and absolutely no rush." },
+    { "promptId": "green-flag", "answer": "You understand that the best plans leave room for a nap." }
+  ],
+  "useAuthoredPrompts": true,
+  "traits": { "energy": 4, "sociability": 6, "pickiness": 4, "playfulness": 5 },
+  "likes": ["naps", "sunbathing", "cuddles", "long-walks"],
+  "dislikes": ["vacuum", "baths"],
+  "lookingFor": "long-walks",
+  "voice": "chill",
+  "behavior": { "likesYouFirst": false, "sendsBone": false, "replySpeed": "slow" },
+  "verified": false
+}

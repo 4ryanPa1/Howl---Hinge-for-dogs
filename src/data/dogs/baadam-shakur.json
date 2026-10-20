@@ -1,0 +1,23 @@
+{
+  "id": "baadam-shakur",
+  "name": "Baadam Shakur",
+  "ageDogYears": 4,
+  "breed": "mixed-breed",
+  "sizeLabel": "Medium",
+  "heightPaws": 5,
+  "location": "Neighbourhood dog park",
+  "photos": ["/assets/dogs/mixed-1.svg", "/assets/dogs/mixed-2.svg", "/assets/dogs/mixed-3.svg"],
+  "prompts": [
+    { "promptId": "dating-me", "answer": "Smooth entrance, strong presence, suspiciously soft heart." },
+    { "promptId": "together-we-could", "answer": "Take a long walk, make a little noise, then call it a night." },
+    { "promptId": "green-flag", "answer": "You respect the vibes and bring the good snacks." }
+  ],
+  "useAuthoredPrompts": true,
+  "traits": { "energy": 6, "sociability": 6, "pickiness": 5, "playfulness": 7 },
+  "likes": ["long-walks", "park", "treats", "car-rides"],
+  "dislikes": ["baths", "vacuum"],
+  "lookingFor": "fetch-partner",
+  "voice": "grumpy",
+  "behavior": { "likesYouFirst": false, "sendsBone": true, "replySpeed": "normal" },
+  "verified": false
+}

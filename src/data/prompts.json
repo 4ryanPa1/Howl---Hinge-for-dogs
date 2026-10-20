@@ -1,0 +1,8 @@
+[
+  { "id": "irrational-fear", "question": "My most irrational fear", "suggestions": ["The vacuum. It knows what it did.", "A suspiciously quiet room.", "The mailman. He comes every day."] },
+  { "id": "win-me-over", "question": "The way to win me over is", "suggestions": ["Say the word walk.", "Have a tennis ball. Any tennis ball.", "Respect my nap schedule."] },
+  { "id": "perfect-day", "question": "My perfect day looks like", "suggestions": ["A long walk followed by a longer nap.", "Three parks, two snacks, one very good stick.", "Sunbeam. Blanket. Repeat."] },
+  { "id": "green-flag", "question": "A green flag I look for", "suggestions": ["You let me sniff the whole block.", "You share your snacks.", "You know that every stick is special."] },
+  { "id": "together-we-could", "question": "Together we could", "suggestions": ["Get politely kicked out of the pond.", "Start a neighbourhood squirrel watch.", "Pretend we know where we're going."] },
+  { "id": "dating-me", "question": "Dating me is like", "suggestions": ["Having a tiny, enthusiastic life coach.", "A very fluffy calendar invite.", "Finding the sunny spot first."] }
+]

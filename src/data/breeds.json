@@ -1,0 +1,14 @@
+[
+  { "id": "golden-retriever", "label": "Golden retriever", "photos": ["/assets/dogs/golden-1.svg", "/assets/dogs/golden-2.svg", "/assets/dogs/golden-3.svg"] },
+  { "id": "shiba-inu", "label": "Shiba inu", "photos": ["/assets/dogs/shiba-1.svg", "/assets/dogs/shiba-2.svg", "/assets/dogs/shiba-3.svg"] },
+  { "id": "corgi", "label": "Corgi", "photos": ["/assets/dogs/corgi-1.svg", "/assets/dogs/corgi-2.svg", "/assets/dogs/corgi-3.svg"] },
+  { "id": "beagle", "label": "Beagle", "photos": ["/assets/dogs/beagle-1.svg", "/assets/dogs/beagle-2.svg", "/assets/dogs/beagle-3.svg"] },
+  { "id": "poodle", "label": "Poodle", "photos": ["/assets/dogs/poodle-1.svg", "/assets/dogs/poodle-2.svg", "/assets/dogs/poodle-3.svg"] },
+  { "id": "dachshund", "label": "Dachshund", "photos": ["/assets/dogs/dachshund-1.svg", "/assets/dogs/dachshund-2.svg", "/assets/dogs/dachshund-3.svg"] },
+  { "id": "mixed-breed", "label": "Mixed breed", "photos": ["/assets/dogs/mixed-1.svg", "/assets/dogs/mixed-2.svg", "/assets/dogs/mixed-3.svg"] },
+  { "id": "border-collie", "label": "Border collie", "photos": ["/assets/dogs/collie-1.svg", "/assets/dogs/collie-2.svg", "/assets/dogs/collie-3.svg"] },
+  { "id": "australian-shepherd", "label": "Australian Shepherd", "photos": ["/assets/dogs/collie-1.svg", "/assets/dogs/collie-2.svg", "/assets/dogs/collie-3.svg"] },
+  { "id": "husky", "label": "Husky", "photos": ["/assets/dogs/shiba-1.svg", "/assets/dogs/shiba-2.svg", "/assets/dogs/shiba-3.svg"] },
+  { "id": "pitbull", "label": "Pitbull", "photos": ["/assets/dogs/mixed-1.svg", "/assets/dogs/mixed-2.svg", "/assets/dogs/mixed-3.svg"] },
+  { "id": "pomeranian", "label": "Pomeranian", "photos": ["/assets/dogs/corgi-1.svg", "/assets/dogs/corgi-2.svg", "/assets/dogs/corgi-3.svg"] }
+]

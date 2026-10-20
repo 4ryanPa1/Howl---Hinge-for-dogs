@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap');
+
+:root {
+  color-scheme: light;
+  --color-bg: #FFFFFF;
+  --color-surface: #F5F3EF;
+  --color-ink: #111111;
+  --color-muted: #6B6B6B;
+  --color-line: #E6E2DB;
+  --color-primary: #111111;
+  --color-on-primary: #FFFFFF;
+  --color-bone: #4B2A8A;
+  --color-bone-soft: #EFE9FA;
+  --color-match: #4B2A8A;
+  --color-danger: #A93335;
+  --color-danger-soft: #FBEDEE;
+  --color-success: #3E6D51;
+  --color-scrim: rgb(17 17 17 / 46%);
+  --color-overlay: #FFFFFF;
+  --color-input: #F5F3EF;
+  --color-photo-text: #FFFFFF;
+  --color-photo-scrim: linear-gradient(transparent, rgb(0 0 0 / 66%));
+  --color-frame-shadow: rgb(0 0 0 / 6%);
+  --color-tab-badge-text: #FFFFFF;
+  --radius-card: 16px;
+  --radius-button: 999px;
+  --shadow-float: 0 4px 16px rgb(0 0 0 / 18%);
+  --font-display: "Newsreader", Georgia, serif;
+  --font-body: "DM Sans", system-ui, sans-serif;
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-md: 1rem;
+  --text-lg: 1.25rem;
+  --text-xl: 1.65rem;
+  --text-hero: clamp(2.65rem, 11vw, 4rem);
+  --text-art: 4.625rem;
+  --text-art-large: 4.75rem;
+  --text-heart: 2.7rem;
+  --text-micro: 0.625rem;
+  --text-clock: 0.5625rem;
+}
