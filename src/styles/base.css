@@ -295,6 +295,12 @@ small { font-size: var(--text-xs); }
 @keyframes slide-up { from { transform: translateY(24px); } to { transform: translateY(0); } }
 @keyframes arrive { from { opacity: 0; transform: translateY(7px); } to { opacity: 1; transform: translateY(0); } }
 @keyframes pulse { 50% { opacity: 0.35; } }
+@media (max-width: 599px) {
+  html, body { min-width: 0; }
+  #root { height: 100vh; height: 100dvh; }
+  .app-frame { width: 100%; height: 100%; max-width: none; aspect-ratio: auto; box-shadow: none; }
+  .screen-content { padding-top: calc(28px + env(safe-area-inset-top)); }
+}
 @media (min-width: 600px) {
   body { padding: 18px 0; background: var(--color-surface); }
   #root { height: calc(100svh - 36px); }
